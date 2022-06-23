@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465387752715",
+    "project_id": "ultiscape-4f9af",
+    "storage_bucket": "ultiscape-4f9af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465387752715:android:16c90f33d7d06f93ef660e",
+        "android_client_info": {
+          "package_name": "com.cameron.ultiscape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465387752715-qqn61f7tgdo4ktj6eu4cdd8l2t55bof2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw8wjpMU6FgEFRysTEe7ekxwCdLSo9Yrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465387752715-qqn61f7tgdo4ktj6eu4cdd8l2t55bof2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
